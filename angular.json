@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "ng-slack": "apps/ng-slack",
+    "ng-slack-e2e": "apps/ng-slack-e2e"
+  }
+}
